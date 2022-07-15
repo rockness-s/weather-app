@@ -1,0 +1,79 @@
+.search {
+  margin: 20px;
+  text-align: center;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+h1 {
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.current {
+  font-size: 30px;
+  position: relative;
+  bottom: 15px;
+  left: 30px;
+}
+
+.realFeel {
+  font-size: 15px;
+  position: relative;
+  bottom: -12px;
+}
+
+.details {
+  padding: 10px;
+}
+
+.current-forecast,
+.daily-forecast {
+  border: none;
+  max-width: 70%;
+  margin: 0 auto;
+  background-color: rgba(235, 235, 235, 0.6);
+}
+
+.current-forecast h1 {
+  padding-left: 15px;
+}
+
+.daily-forecast {
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.row {
+  text-align: center;
+}
+
+.time {
+  position: relative;
+  right: -230px;
+  top: -47px;
+}
+
+.temperature,
+.weather {
+  padding-top: 10px;
+}
+
+.weather {
+  font-size: 20px;
+}
+
+footer {
+  margin-top: 15px;
+}
+
+.daily {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+body {
+  background-image: url(https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg);
+}
